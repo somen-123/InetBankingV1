@@ -1,0 +1,146 @@
+2022-04-05 18:56:29 INFO  eBanking:21 - URL launched
+ 2022-04-05 18:57:01 INFO  eBanking:29 - login success
+  2022-04-05 19:00:39 INFO  eBanking:21 - URL launched
+  2022-04-05 19:00:55 INFO  eBanking:29 - login success
+  2022-04-05 21:30:52 INFO  eBanking:21 - URL launched
+  2022-04-05 21:31:27 INFO  eBanking:29 - login success
+  2022-04-05 21:35:06 INFO  eBanking:21 - URL launched
+  2022-04-05 21:35:23 INFO  eBanking:29 - login success
+  2022-04-05 22:45:32 INFO  eBanking:19 - URL launched
+  2022-04-05 22:45:51 INFO  eBanking:27 - login success
+  2022-04-06 18:02:31 INFO  eBanking:19 - URL launched
+  2022-04-06 18:02:51 INFO  eBanking:27 - login success
+  2022-04-06 19:46:56 INFO  eBanking:19 - URL launched
+  2022-04-06 19:47:23 INFO  eBanking:27 - login success
+  2022-04-06 19:51:17 INFO  eBanking:19 - URL launched
+  2022-04-06 19:51:31 INFO  eBanking:27 - login success
+  2022-04-06 20:03:22 INFO  eBanking:19 - URL launched
+  2022-04-06 20:03:45 INFO  eBanking:27 - login success
+  2022-04-06 20:27:18 INFO  eBanking:20 - URL launched
+  2022-04-06 20:40:45 INFO  eBanking:20 - URL launched
+  2022-04-06 20:57:09 INFO  eBanking:20 - URL launched
+  2022-04-06 20:57:31 INFO  eBanking:39 - Login success
+  2022-04-07 18:03:55 INFO  eBanking:24 - Login Success
+  2022-04-07 22:20:53 WARN  eBanking:33 - Login failed
+  2022-04-07 22:21:21 INFO  eBanking:37 - Login Success
+  2022-04-07 22:25:09 WARN  eBanking:33 - Login failed
+  2022-04-07 22:25:24 INFO  eBanking:37 - Login Success
+  2022-04-07 22:29:44 INFO  eBanking:37 - Login Success
+  2022-04-07 22:30:11 WARN  eBanking:33 - Login failed
+  2022-04-07 22:30:38 INFO  eBanking:37 - Login Success
+  2022-04-07 22:55:02 INFO  eBanking:37 - Login Success
+  2022-04-07 22:55:25 WARN  eBanking:33 - Login failed
+  2022-04-07 22:55:42 INFO  eBanking:37 - Login Success
+  2022-04-08 18:45:12 INFO  eBanking:37 - Login Success
+  2022-04-08 18:45:38 WARN  eBanking:33 - Login failed
+  2022-04-08 18:45:56 INFO  eBanking:37 - Login Success
+  2022-04-09 15:45:57 INFO  eBanking:22 - Login success
+  2022-04-09 15:46:11 INFO  eBanking:44 - Add customer failed
+  2022-04-09 15:47:42 INFO  eBanking:22 - Login success
+  2022-04-09 15:48:22 INFO  eBanking:22 - Login success
+  2022-04-09 15:50:59 INFO  eBanking:22 - Login success
+  2022-04-09 15:51:18 INFO  eBanking:42 - Customer added successfully
+  2022-04-09 15:52:43 INFO  eBanking:22 - Login success
+  2022-04-09 15:53:49 INFO  eBanking:22 - Login success
+  2022-04-09 15:54:12 INFO  eBanking:42 - Customer added successfully
+  2022-04-09 15:56:16 INFO  eBanking:22 - Login success
+  2022-04-09 15:57:39 INFO  eBanking:22 - Login success
+  2022-04-09 15:59:26 INFO  eBanking:22 - Login success
+  2022-04-09 15:59:52 INFO  eBanking:43 - Customer added successfully
+  2022-04-09 16:05:39 INFO  eBanking:22 - Login success
+  2022-04-09 16:06:08 INFO  eBanking:44 - Customer added successfully
+  2022-04-09 16:06:56 INFO  eBanking:22 - Login success
+  2022-04-09 16:09:04 INFO  eBanking:22 - Login success
+  2022-04-09 16:09:34 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 18:06:33 INFO  eBanking:22 - Login success
+  2022-04-12 18:07:02 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 18:11:19 INFO  eBanking:20 - URL launched
+  2022-04-12 18:11:41 INFO  eBanking:39 - Login success
+  2022-04-12 18:12:16 INFO  eBanking:37 - Login Success
+  2022-04-12 18:12:38 WARN  eBanking:33 - Login failed
+  2022-04-12 18:12:53 INFO  eBanking:37 - Login Success
+  2022-04-12 18:13:24 INFO  eBanking:22 - Login success
+  2022-04-12 18:13:53 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 18:19:04 INFO  eBanking:20 - URL launched
+  2022-04-12 18:19:27 INFO  eBanking:39 - Login success
+  2022-04-12 19:27:25 INFO  eBanking:20 - URL launched
+  2022-04-12 19:27:45 INFO  eBanking:39 - Login success
+  2022-04-12 19:29:15 INFO  eBanking:22 - Login success
+  2022-04-12 19:29:45 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 19:29:52 INFO  eBanking:48 - Add customer failed
+  2022-04-12 19:35:50 INFO  eBanking:22 - Login success
+  2022-04-12 19:36:20 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 19:40:31 INFO  eBanking:22 - Login success
+  2022-04-12 19:41:00 INFO  eBanking:44 - Customer added successfully
+  2022-04-12 19:49:33 INFO  eBanking:23 - Login success
+  2022-04-12 19:50:01 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 12:45:43 INFO  eBanking:23 - Login success
+  2022-04-17 12:46:10 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 12:46:15 INFO  eBanking:51 - Add customer failed
+  2022-04-17 12:50:17 INFO  eBanking:23 - Login success
+  2022-04-17 12:52:14 INFO  eBanking:23 - Login success
+  2022-04-17 12:53:25 INFO  eBanking:23 - Login success
+  2022-04-17 12:53:59 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 12:54:17 INFO  eBanking:30 - Customer ID not exist
+  2022-04-17 12:54:17 INFO  eBanking:51 - Add customer failed
+  2022-04-17 12:58:45 INFO  eBanking:23 - Login success
+  2022-04-17 12:59:17 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 12:59:32 INFO  eBanking:31 - Customer ID not exist
+  2022-04-17 12:59:32 INFO  eBanking:51 - Add customer failed
+  2022-04-17 13:06:21 INFO  eBanking:23 - Login success
+  2022-04-17 13:06:53 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:06:58 INFO  eBanking:51 - Add customer failed
+  2022-04-17 13:08:18 INFO  eBanking:23 - Login success
+  2022-04-17 13:08:51 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:09:05 INFO  eBanking:37 - Customer deleted
+  2022-04-17 13:09:07 INFO  eBanking:51 - Delete customer failed
+  2022-04-17 13:13:39 INFO  eBanking:23 - Login success
+  2022-04-17 13:14:10 INFO  eBanking:50 - Delete customer failed
+  2022-04-17 13:15:22 INFO  eBanking:23 - Login success
+  2022-04-17 13:15:54 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:22:13 INFO  eBanking:23 - Login success
+  2022-04-17 13:22:46 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:23:02 INFO  eBanking:41 - Customer deleted
+  2022-04-17 13:24:33 INFO  eBanking:23 - Login success
+  2022-04-17 13:25:05 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:26:28 INFO  eBanking:23 - Login success
+  2022-04-17 13:27:01 INFO  eBanking:45 - Customer added successfully
+  2022-04-17 13:27:16 INFO  eBanking:41 - Customer deleted
+  2022-04-19 18:54:48 INFO  eBanking:23 - Login success
+  2022-04-19 18:55:22 INFO  eBanking:45 - Customer added successfully
+  2022-04-19 19:02:25 INFO  eBanking:23 - Login success
+  2022-04-19 19:02:58 INFO  eBanking:45 - Customer added successfully
+  2022-04-19 19:03:17 INFO  eBanking:42 - Customer deleted
+  2022-04-19 20:13:01 INFO  eBanking:23 - Login success
+  2022-04-19 20:13:36 INFO  eBanking:45 - Customer added successfully
+  2022-04-19 20:13:55 INFO  eBanking:42 - Customer deleted
+  2022-04-20 21:49:08 INFO  eBanking:23 - Login success
+  2022-04-20 21:49:42 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 21:51:18 INFO  eBanking:23 - Login success
+  2022-04-20 21:51:52 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 21:55:39 INFO  eBanking:23 - Login success
+  2022-04-20 21:56:13 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 21:59:26 INFO  eBanking:23 - Login success
+  2022-04-20 21:59:57 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 22:00:38 INFO  eBanking:23 - Login success
+  2022-04-20 22:01:11 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 22:50:27 INFO  eBanking:23 - Login success
+  2022-04-20 22:51:01 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 22:51:28 INFO  eBanking:32 - No Changes made to Customer records
+  2022-04-20 22:56:24 INFO  eBanking:23 - Login success
+  2022-04-20 22:56:57 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 22:57:22 INFO  eBanking:33 - No Changes made to Customer records
+  2022-04-20 22:59:05 INFO  eBanking:23 - Login success
+  2022-04-20 22:59:39 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 23:00:08 INFO  eBanking:35 - No Changes made to Customer records
+  2022-04-20 23:04:22 INFO  eBanking:23 - Login success
+  2022-04-20 23:04:56 INFO  eBanking:45 - Customer added successfully
+  2022-04-20 23:05:25 INFO  eBanking:35 - No Changes made to Customer records
+  2022-04-20 23:05:38 INFO  eBanking:42 - Customer deleted
+  2022-04-24 11:30:41 INFO  eBanking:23 - Login success
+  2022-04-24 11:31:16 INFO  eBanking:50 - Add customer failed
+  2022-04-24 11:34:40 INFO  eBanking:23 - Login success
+  2022-04-24 11:35:14 INFO  eBanking:45 - Customer added successfully
+  2022-04-24 11:35:45 INFO  eBanking:35 - No Changes made to Customer records
+  2022-04-24 11:35:59 INFO  eBanking:42 - Customer deleted
+  
